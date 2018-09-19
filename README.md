@@ -12,5 +12,5 @@ Documentation and Examples for various arduino sensors and components!
 # Coding rules
 1) Component \ Sensor should only document itself, and should therefore not include any other sensors / modules. 
 2) Code should not be copied from any media source that might be protected by copyright. 
-3) Document your code as if you are a beginner arduino user with basic knowledge. 
+3) Document your code so it can be read by a beginner arduino user with basic knowledge. 
 4) Any special libraries needed should be documented in the `README`
