@@ -10,7 +10,7 @@ Arduino UNO
 
 ## Component list for sample sketch
 * 330 Ohm resistor
-* KY-011 - Common-Cathode RED&GREEN LED / Yin Yi 2-color LED 3mm
+* KY-011 - Yin Yi 2-color LED 3mm
 * 3 x MALE-MALE Jumper Wires
 
 ## Sample usecases
