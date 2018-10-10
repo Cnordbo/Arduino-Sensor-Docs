@@ -15,7 +15,7 @@ Documentation and Examples for various arduino sensors and components!
 - [ ] Active buzzer module KY-012
 - [ ] Temperature sensor module KY-013
 - [ ] Temperature and humidity sensor module KY-015
-- [ ] 3-color LED module KY-016
+- [x] [3-color LED module KY-016](./KY-016/)
 - [ ] Mercury open optical module KY-017
 - [ ] Photo resistor module KY-018
 - [ ] 5V relay module KY-019
