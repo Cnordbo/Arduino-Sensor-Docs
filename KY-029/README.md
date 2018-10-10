@@ -1,6 +1,6 @@
-# 2-color LED Module 3mm (KY-029)
-A 2 color LED which displays either GREEN or RED based on which of the pins that the current flows trough.
-The module also allows for current to flow trough both signal pins, blending RED and GREEN color to make Orange.
+# Common-cathode RED&GREEN LED (KY-029)
+A common-cathode RED&GREEN LED which displays either GREEN or RED based on which of the pins that the current flows trough.
+The module also allows for current to flow trough both signal pins, blending RED and GREEN color to make Orange. (Which is different then [KY-011](../KY-011/) which only allows for a single color at any time)
 
 # Sample Code
 Demonstrates the different states of a Common-Cathode LED by connecting the cathode to ground and giving a signal (applying current) to the two signal pins.
