@@ -9,7 +9,7 @@ Documentation and Examples for various arduino sensors and components!
 - [ ] Infrared emission sensor module KY-005
 - [ ] Small passive buzzer module KY-006
 - [ ] Laser sensor module KY-008
-- [ ] 3-color full-color LED SMD modules KY-009
+- [x] [3-color full-color LED SMD modules KY-009](./KY-009/)
 - [ ] Optical broken module KY-010
 - [x] [2-color LED module KY-011](./KY-011/)
 - [ ] Active buzzer module KY-012
