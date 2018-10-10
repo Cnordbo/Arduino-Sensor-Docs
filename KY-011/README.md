@@ -1,4 +1,4 @@
-# 2-color LED Module 3mm (KY-029)
+# 2-color LED Module 3mm (KY-011)
 A 2 color LED which displays either GREEN or RED based on which of the pins that the current flows trough.
 The module only allows for current to flow trough a single signal pin at any time, which is different from [KY-029](../KY-029/) which allows for blending of the two colors.
 
